@@ -1,1 +1,23 @@
+### Global Ignore
+#*__*__
+
+
+### Hidden Directories
+.ipynb_checkpoints/
+
+
+### Directories
+CondaEnv/
+Courses/
+LearningPython/
 Pyhon courses/
+YAD2k/
+
+
+### Files
+AIenv.yaml
+setup.py
+
+### gitignore files
+.gitignore~
+..gitignore.un~
